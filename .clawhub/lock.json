@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "skills": {
+    "ironclaw": {
+      "version": "1.3.1",
+      "installedAt": 1772585777442
+    },
+    "deep-research-pro": {
+      "version": "1.0.2",
+      "installedAt": 1772586012029
+    },
+    "ddg-search-cli": {
+      "version": "2026.2.15",
+      "installedAt": 1772596116714
+    },
+    "self-improving-agent": {
+      "version": "1.0.11",
+      "installedAt": 1772596721994
+    }
+  }
+}
