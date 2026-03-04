@@ -1,6 +1,6 @@
 # Polymarket BTC Price Predictions
 
-Last updated: 2026-03-05 00:39:00 CST
+Last updated: 2026-03-05 01:09:00 CST
 
 ## Current BTC Price: $71,875
 
@@ -10,15 +10,15 @@ Last updated: 2026-03-05 00:39:00 CST
 
 | Target | Price | Volume |
 |--------|-------|--------|
-| BTC reach $75,000 in March | 82¢ | $643.0K |
-| BTC reach $80,000 in March | 49¢ | $496.9K |
+| BTC reach $75,000 in March | 83¢ | $643.4K |
+| BTC reach $80,000 in March | 50.50¢ | $515.9K |
 
-### Change from Last Update (2026-03-05 00:09)
+### Change from Last Update (2026-03-05 00:39)
 
 | Target | Last | Current | Δ |
 |--------|------|---------|---|
-| BTC reach $75,000 | 84¢ | 82¢ | -2¢ |
-| BTC reach $80,000 | 49.50¢ | 49¢ | -0.5¢ |
+| BTC reach $75,000 | 82¢ | 83¢ | +1¢ |
+| BTC reach $80,000 | 49¢ | 50.50¢ | +1.5¢ |
 
 ---
 
