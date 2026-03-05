@@ -1,22 +1,22 @@
 # Polymarket BTC Price Predictions
 
-Last updated: 2026-03-05 21:46:00 CST
+Last updated: 2026-03-05 22:47:00 CST
 
-## Current BTC Price: ~$72,819 (CoinGecko)
+## Current BTC Price: ~$72,098 (CoinGecko)
 
 ### March 2026 Markets (Active)
 
 | Target | Price | Volume |
 |--------|-------|--------|
-| BTC reach $75,000 in March | 79.50¢ | $798.5K |
-| BTC reach $80,000 in March | 47.00¢ | $611.0K |
+| BTC reach $75,000 in March | 75.00¢ | $800.9K |
+| BTC reach $80,000 in March | 42.50¢ | $613.0K |
 
-### Change from Last Update (2026-03-05 21:15)
+### Change from Last Update (2026-03-05 21:46)
 
 | Target | Last | Current | Δ |
 |--------|------|---------|---|
-| BTC reach $75,000 | 79.50¢ | 79.50¢ | 0.0¢ |
-| BTC reach $80,000 | 47.00¢ | 47.00¢ | 0.0¢ |
+| BTC reach $75,000 | 79.50¢ | 75.00¢ | -4.5¢ |
+| BTC reach $80,000 | 47.00¢ | 42.50¢ | -4.5¢ |
 
 ---
 
@@ -24,21 +24,23 @@ Last updated: 2026-03-05 21:46:00 CST
 
 | Target | Price | Volume |
 |--------|-------|--------|
-| BTC reach $85,000 in March | 21.50¢ | $738.9K |
-| BTC reach $90,000 in March | 9.05¢ | $609.6K |
-| BTC dip to $65,000 in March | 47.60¢ | $983.8K |
+| BTC reach $85,000 in March | 19.50¢ | $740.7K |
+| BTC reach $90,000 in March | 8.90¢ | $611.4K |
+| BTC dip to $65,000 in March | 50.65¢ | $985.9K |
+| BTC dip to $60,000 in March | 24.50¢ | $738.9K |
 
 ---
 
-*BTC needs +$2,181 (+3.0%) to reach $75,000 and +$7,181 (+9.9%) to reach $80,000 by end of March*
+*BTC needs +$2,902 (+4.0%) to reach $75,000 and +$7,902 (+11.0%) to reach $80,000 by end of March*
 
 ---
 
 ### Trend Analysis (30min)
 
-- **$75,000**: 79.50¢ → 79.50¢ (0.0¢) ➡️
-- **$80,000**: 47.00¢ → 47.00¢ (0.0¢) ➡️
+- **$75,000**: 79.50¢ → 75.00¢ (-4.5¢) 📉
+- **$80,000**: 47.00¢ → 42.50¢ (-4.5¢) 📉
 
-Prices holding steady. BTC still consolidating around $72.8K. ~80% chance for $75K, ~47% for $80K by month-end.
+Slight pullback in probability. BTC at $72.1K (-$721 from earlier). ~75% chance for $75K, ~43% for $80K by month-end.
 
 ---
+
