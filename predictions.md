@@ -1,41 +1,38 @@
 # Polymarket BTC Price Predictions
 
-Last updated: 2026-03-06 06:28 CST
+Last updated: 2026-03-06 06:59 CST
 
-## Current BTC Price: $71,214 (CoinGecko)
+## Current BTC Price: ~$71,200 (CoinGecko)
 
 ### Summary
 
-**All March 2026 BTC prediction markets have CLOSED.** These markets have resolved based on March 2026 price action.
+**March 2026 BTC $75K and $80K markets still active** - surprising as we're already in March. Markets showing high probability BTC stays in current range.
 
-### Closed Markets (March 2026)
+### March 2026 Targets
 
-| Target | Final Price | Volume | Outcome |
-|--------|-------------|--------|---------|
-| BTC hit $80,000 in March | 0.00¢ | $261.9K | ❌ No |
-| BTC hit $75,000 in March | — | — | ❌ No |
-| BTC hit $70,000 in March | 100.00¢ | $110.5K | ✅ Yes |
-| BTC hit $65,000 in March | 100.00¢ | $12.3K | ✅ Yes |
-| BTC hit $90,000 in March | 0.00¢ | $153.8K | ❌ No |
-| BTC hit $100,000 in March | 0.00¢ | $105.0K | ❌ No |
+| Target | Current Odds | 24h Change | Volume | Status |
+|--------|--------------|------------|--------|--------|
+| BTC reach $80,000 in March | 37.50¢ | — | $655.0K | Active |
+| BTC reach $75,000 in March | 69.00¢ | — | $881.7K | Active |
+| BTC reach $70,000 in March | 100.00¢ | — | $1.8M | Closed ✅ |
+| BTC reach $65,000 in March | 100.00¢ | — | — | Closed ✅ |
 
-### Historical Reference
+### Short-term (March 2-8)
 
-| Target | Last Known Price (pre-close) | Volume |
-|--------|------------------------------|--------|
-| BTC reach $75,000 in March | 70.50¢ | $876.5K |
-| BTC reach $80,000 in March | 37.50¢ | $654.2K |
+| Target | Odds | Volume |
+|--------|------|--------|
+| BTC reach $80K (Mar 2-8) | 3.70¢ | $225.2K |
+| BTC reach $78K (Mar 2-8) | 7.70¢ | $240.1K |
+| BTC reach $76K (Mar 2-8) | 15.50¢ | $267.9K |
 
----
+### Year-end 2026
 
-### Current Active BTC Markets
-
-No active March 2026 BTC price prediction markets available. 
-
-| Question | Price | Volume | Status |
-|----------|-------|--------|--------|
-| Will bitcoin hit $1m before GTA VI? | — | $3.4M | Active |
+| Target | Odds | Volume |
+|--------|------|--------|
+| BTC reach $100,000 by Dec 31 | 41.50¢ | $893.1K |
+| BTC reach $80,000 by Dec 31 | 72.50¢ | $95.8K |
+| BTC reach $75,000 by Dec 31 | 91.50¢ | $417.4K |
 
 ---
 
-*BTC closed March 2026 below $80K. The markets correctly priced the probability of hitting these targets.*
+*Markets pricing: BTC likely stays $70-75K through March, ~40% chance $100K by year-end.*
