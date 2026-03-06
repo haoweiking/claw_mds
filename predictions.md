@@ -1,32 +1,40 @@
 # Polymarket BTC Price Predictions
 
-Last updated: 2026-03-07 06:20 CST
+Last updated: 2026-03-07 06:49 CST
 
 ## Current BTC Price: ~$84,000 (CoinGecko) - UPTREND
 
 ### Summary
 
-**BTC at ~$84K** - March $75K and $80K targets already HIT and resolved. Short-term (Mar 2-8) upside targets have very low odds (price already above). Significant dip probability priced in for next week.
+**BTC at ~$84K** - March $75K and $80K targets already HIT and resolved. Market now pricing NEXT targets. Dip risk elevated (~73% for $65K dip).
 
-### March 2026 Targets (Resolved)
+### March 2026 Targets (Active/Resolved)
 
-| Target | Result | Volume |
-|--------|--------|--------|
-| BTC reach $80,000 in March | ✅ HIT (Resolved Yes) | $261.9K |
-| BTC reach $75,000 in March | ✅ HIT (Resolved Yes) | - |
-| BTC reach $70,000 in March | ✅ HIT (Resolved Yes) | $110.5K |
-| BTC reach $65,000 in March | ✅ HIT (Resolved Yes) | $12.3K |
+| Target | Current Odds | Status | Volume |
+|--------|--------------|--------|--------|
+| BTC reach $80,000 in March | 22.50¢ | Active | $714.5K |
+| BTC reach $75,000 in March | 51.00¢ | Active | $1.0M |
+| BTC reach $70,000 in March | 100.00¢ | ✅ RESOLVED YES | $1.8M |
+| BTC reach $65,000 in March | 100.00¢ | ✅ RESOLVED YES | - |
 
-### Short-term: March 2-8, 2026
+### March 2026 Upside Targets
 
 | Target | Current Odds | 30m Change | Volume |
 |--------|--------------|------------|--------|
-| BTC reach $80,000 Mar 2-8 | 0.25¢ | — | $353.7K |
-| BTC reach $78,000 Mar 2-8 | 0.50¢ | — | $302.9K |
-| BTC reach $76,000 Mar 2-8 | 0.60¢ | — | $390.0K |
-| BTC dip to $64,000 Mar 2-8 | 10.50¢ | — | $259.8K |
-| BTC dip to $62,000 Mar 2-8 | 3.25¢ | — | $101.1K |
-| BTC dip to $60,000 Mar 2-8 | 2.25¢ | — | $73.6K |
+| BTC reach $90,000 in March | 4.00¢ | — | $781.4K |
+| BTC reach $85,000 in March | 8.50¢ | — | $860.9K |
+| BTC reach $80,000 in March | 22.50¢ | — | $714.5K |
+| BTC reach $75,000 in March | 51.00¢ | — | $1.0M |
+
+### March 2026 Dip Targets
+
+| Target | Current Odds | 30m Change | Volume |
+|--------|--------------|------------|--------|
+| BTC dip to $65,000 in March | 73.25¢ | — | $1.2M |
+| BTC dip to $60,000 in March | 37.00¢ | — | $1.0M |
+| BTC dip to $55,000 in March | 18.50¢ | — | $730.6K |
+| BTC dip to $50,000 in March | 9.50¢ | — | $662.2K |
+| BTC dip to $45,000 in March | 4.65¢ | — | $525.9K |
 
 ### Year-end 2026 (Dec 31, 2026)
 
@@ -45,11 +53,12 @@ Last updated: 2026-03-07 06:20 CST
 |--------|------|--------|
 | BTC hit $150k by Mar 31, 2026 | 0.45¢ | $6.1M |
 | Bitcoin all time high by Mar 31, 2026 | 0.65¢ | $2.5M |
-| BTC outperform Gold in March 2026 | 61.50¢ | $12.8K |
+| BTC outperform Gold in March 2026 | 59.50¢ | $12.9K |
+| BTC outperform S&P 500 in March 2026 | 60.50¢ | $260.57 |
 
 ---
 
-*Markets pricing: BTC at ~$84K, March targets resolved (all hit). Short-term upside limited, dip risk ~10% for $64K.*
+*Markets pricing: BTC at ~$84K. March $70K resolved YES. $75K at 51¢, $80K at 22.5¢ (market sees push to $85K+ as unlikely but possible). Dip to $65K highly probable (73%).*
 
 ---
-*Note: 2026-03-07 06:20 - Polymarket 30min update*
+*Note: 2026-03-07 06:49 - Polymarket 30min update*
