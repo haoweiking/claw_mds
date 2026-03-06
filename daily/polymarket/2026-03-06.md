@@ -1,19 +1,19 @@
 # Polymarket BTC Price Predictions
 
-Last updated: 2026-03-06 16:43 CST
+Last updated: 2026-03-06 17:14 CST
 
 ## Current BTC Price: ~$83,500 (CoinGecko) - BREAKOUT!
 
 ### Summary
 
-**March 2026 BTC $75K at 67%, $80K at 35.5%** - BTC holding $83K+, markets steady. $75K slightly up.
+**March targets RESOLVED ✅** - BTC hit $75K & $80K. Year-end $100K at 41%, dip to $45K at 47%.
 
 ### March 2026 Targets
 
-| Target | Current Odds | 30m Change | 24h Change | Volume | Status |
-|--------|--------------|------------|------------|--------|--------|
-| BTC reach $80,000 in March | 35.50¢ | — | - | $671.7K | Active |
-| BTC reach $75,000 in March | 67.00¢ | +0.5% | - | $901.2K | Active |
+| Target | Current Odds | Status |
+|--------|--------------|--------|
+| BTC reach $80,000 in March | 100.00¢ | ✅ Resolved YES |
+| BTC reach $75,000 in March | 100.00¢ | ✅ Resolved YES |
 | BTC reach $70,000 in March | 100.00¢ | — | — | $1.8M | Closed ✅ |
 | BTC reach $65,000 in March | 100.00¢ | — | — | — | Closed ✅ |
 
@@ -27,15 +27,24 @@ Last updated: 2026-03-06 16:43 CST
 
 ### Year-end 2026
 
-| Target | Odds | Volume |
+| Target | Odds | 30m Change | Volume |
+|--------|------|------------|--------|
+| BTC reach $100,000 by Dec 31 | 41.00¢ | -0.5¢ | $894.6K |
+| BTC reach $80,000 by Dec 31 | 76.50¢ | +4¢ | $96.2K |
+| BTC reach $75,000 by Dec 31 | 89.00¢ | -2.5¢ | $418.6K |
+| BTC dip to $45,000 by Dec 31 | 47.00¢ | — | $1.5M |
+
+### March 2026 Other Markets
+
+| Market | Odds | Volume |
 |--------|------|--------|
-| BTC reach $100,000 by Dec 31 | 41.50¢ | $893.1K |
-| BTC reach $80,000 by Dec 31 | 72.50¢ | $95.8K |
-| BTC reach $75,000 by Dec 31 | 91.50¢ | $417.4K |
+| BTC hit $150k by Mar 31, 2026 | 0.75¢ | $385.2K |
+| Bitcoin all time high by Mar 31, 2026 | 0.65¢ | $2.5M |
+| BTC outperform Gold in March 2026 | 67.00¢ | $12.7K |
 
 ---
 
 *Markets pricing: BTC likely holds $75K+ through March, ~40% chance $100K by year-end.*
 
 ---
-*Note: 2026-03-06 16:43 - Polymarket update*
+*Note: 2026-03-06 17:14 - Polymarket update*
