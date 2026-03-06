@@ -1,21 +1,21 @@
 # Polymarket BTC Price Predictions
 
-Last updated: 2026-03-06 19:17 CST
+Last updated: 2026-03-06 20:17 CST
 
 ## Current BTC Price: ~$83,500 (CoinGecko) - BREAKOUT!
 
 ### Summary
 
-**March targets RESOLVED ✅** - BTC hit $75K & $80K. Year-end $100K at 41%, dip to $45K at 47%.
+**March targets ACTIVE** - BTC currently above $80K, markets still open for March-end settlement. Year-end $100K at 41%, dip to $45K at 47%.
 
-### March 2026 Targets (RESOLVED)
+### March 2026 Targets (Active - BTC currently above $80K)
 
-| Target | Current Odds | Status |
-|--------|--------------|--------|
-| BTC reach $80,000 in March | 33.00¢ | ✅ Resolved YES (BTC >$80K) |
-| BTC reach $75,000 in March | 62.50¢ | ✅ Resolved YES (BTC >$75K) |
-| BTC reach $70,000 in March | 100.00¢ | — | — | $1.8M | Closed ✅ |
-| BTC reach $65,000 in March | 100.00¢ | — | — | — | Closed ✅ |
+| Target | Current Odds | 30m Change | Status |
+|--------|--------------|------------|--------|
+| BTC reach $80,000 in March | 30.50¢ | -2.5¢ | Active |
+| BTC reach $75,000 in March | 59.50¢ | -3¢ | Active |
+| BTC reach $70,000 in March | 100.00¢ | — | Closed ✅ |
+| BTC reach $65,000 in March | 100.00¢ | — | Closed ✅ |
 
 ### Year-end 2026 (Dec 31, 2026)
 
@@ -28,7 +28,7 @@ Last updated: 2026-03-06 19:17 CST
 | BTC dip to $55,000 by Dec 31 | 68.00¢ | — | $1.5M |
 | BTC reach $90,000 by Dec 31 | 54.00¢ | — | $71.3K |
 
-### March 6,Today - 2026 ( resolving soon)
+### March 6, Today - 2026 (resolving soon)
 
 | Target | Odds | Volume |
 |--------|------|--------|
@@ -53,4 +53,4 @@ Last updated: 2026-03-06 19:17 CST
 *Markets pricing: BTC likely holds $75K+ through March, ~41% chance $100K by year-end.*
 
 ---
-*Note: 2026-03-06 19:17 - Polymarket update*
+*Note: 2026-03-06 20:17 - Polymarket update*
