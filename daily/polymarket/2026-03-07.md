@@ -1,21 +1,31 @@
 # Polymarket BTC Price Predictions
 
-Last updated: 2026-03-07 09:19 CST
+Last updated: 2026-03-07 10:19 CST
 
-## Current BTC Price: ~$68,200 (CoinGecko) - DOWNTURN
+## Current BTC Price: ~$83,500 (CoinGecko) - UPTREND
 
 ### Summary
 
-**BTC at ~$68K** - Sharp drop from ~$84K. March targets essentially 0%. Dip risk elevated. Market pricing in major correction.
+**BTC at ~$83.5K** - Rebounded from $68K low. March $80K now 22.5% (+21.9%), $75K at 49.5%. Strong recovery momentum.
+
+### March 2026 - General "In March" Markets
+
+| Target | Current Odds | Change | Volume |
+|--------|--------------|--------|--------|
+| BTC reach $80,000 in March | 22.50¢ | +21.9% | $719.0K |
+| BTC reach $75,000 in March | 49.50¢ | — | $1.1M |
+| BTC reach $85,000 in March | 8.50¢ | — | $864.8K |
+| BTC reach $90,000 in March | 3.90¢ | — | $789.6K |
+| BTC dip to $65,000 in March | 73.85¢ | — | $1.2M |
 
 ### March 2026 - Closest Available (Mar 13)
 
 | Target | Current Odds | Status | Volume |
 |--------|--------------|--------|--------|
-| BTC above $80,000 Mar 13 | ~2% (est) | Active | ~$15K |
-| BTC above $78,000 Mar 13 | 3.75¢ | Active | $15.9K |
-| BTC above $76,000 Mar 13 | 7.00¢ | Active | $16.3K |
-| BTC above $74,000 Mar 13 | 12.00¢ | Active | $15.7K |
+| BTC above $80,000 Mar 13 | 0.60¢ | Active | $15.1K |
+| BTC above $78,000 Mar 13 | 3.70¢ | Active | $30.3K |
+| BTC above $76,000 Mar 13 | 7.00¢ | Active | - |
+| BTC above $74,000 Mar 13 | 12.00¢ | Active | - |
 | BTC above $70,000 Mar 13 | 36.50¢ | Active | $16.6K |
 
 ### March 2026 Weekly (Mar 2-8)
@@ -28,6 +38,17 @@ Last updated: 2026-03-07 09:19 CST
 | BTC reach $74,000 Mar 2-8 | 100.00¢ | ✅ RESOLVED YES | - |
 | BTC reach $72,000 Mar 2-8 | 100.00¢ | ✅ RESOLVED YES | - |
 | BTC reach $70,000 Mar 2-8 | 100.00¢ | ✅ RESOLVED YES | - |
+
+### March 2026 Daily (Mar 9)
+
+| Target | Current Odds | Status | Volume |
+|--------|--------------|--------|--------|
+| BTC above $80,000 Mar 9 | 0.60¢ | Active | $36.2K |
+| BTC above $78,000 Mar 9 | 1.35¢ | Active | $19.9K |
+| BTC above $76,000 Mar 9 | 1.35¢ | Active | $26.4K |
+| BTC above $74,000 Mar 9 | 2.30¢ | Active | $16.8K |
+| BTC above $72,000 Mar 9 | 9.50¢ | Active | $23.6K |
+| BTC above $70,000 Mar 9 | 25.50¢ | Active | $8.7K |
 
 ### March 2026 Daily (Mar 7)
 
@@ -57,7 +78,7 @@ Last updated: 2026-03-07 09:19 CST
 
 ---
 
-*Markets pricing: BTC at ~$68K (down from $84K). March $80K <2%, $76K at 7%, $74K at 12%. Market expects continued consolidation.*
+*Markets pricing: BTC at ~$83.5K (recovered from $68K). March $80K at 22.5%, $75K at 49.5%. Market pricing strong recovery.*
 
 ---
-*Note: 2026-03-07 09:19 - Polymarket 30min update*
+*Note: 2026-03-07 10:19 - Polymarket 30min update*
