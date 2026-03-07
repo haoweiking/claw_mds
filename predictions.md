@@ -1,19 +1,19 @@
 # Polymarket BTC Price Predictions
 
-Last updated: 2026-03-07 11:49 CST
+Last updated: 2026-03-07 12:19 CST
 
 ## Current BTC Price: ~$83,500 (CoinGecko) - UPTREND
 
 ### Summary
 
-**BTC at ~$83.5K** - Rebounded from $68K low. March $80K at 22.5%, $75K at 48%. Slight dip in $75K probability.
+**BTC at ~$83.5K** - March $80K at 22%, $75K at 46.5%. Both slight dips.
 
 ### March 2026 - General "In March" Markets
 
 | Target | Current Odds | Change | Volume |
 |--------|--------------|--------|--------|
-| BTC reach $80,000 in March | 22.50¢ | — | $719.4K |
-| BTC reach $75,000 in March | 48.00¢ | ↓1.5% | $1.1M |
+| BTC reach $80,000 in March | 22.00¢ | ↓0.5% | $719.6K |
+| BTC reach $75,000 in March | 46.50¢ | ↓1.5% | $1.1M |
 | BTC reach $85,000 in March | 8.50¢ | — | $864.8K |
 | BTC reach $90,000 in March | 3.90¢ | — | $789.6K |
 | BTC dip to $65,000 in March | 74.20¢ | — | $1.2M |
@@ -78,7 +78,6 @@ Last updated: 2026-03-07 11:49 CST
 
 ---
 
-*Markets pricing: BTC at ~$83.5K (recovered from $68K). March $80K at 22.5%, $75K at 48%. Market pricing slight pullback.*
-
+*Markets pricing: BTC at ~$83.5K. March $80K at 22%, $75K at 46.5%. Slight pullback in probabilities.*
 ---
-*Note: 2026-03-07 11:49 - Polymarket 30min update*
+*Note: 2026-03-07 12:19 - Polymarket 30min update*
