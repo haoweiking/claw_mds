@@ -1,23 +1,23 @@
 # Polymarket BTC Price Predictions 2026-
 
-Last updated:03-07 19:21 CST
+Last updated:03-07 19:51 CST
 
-## Current BTC Price: ~$67,814 (Binance)
+## Current BTC Price: ~$67,800 (Binance)
 
 ### Summary
 
-**BTC at ~$67.8K** - March $80K resolved NO, $75K resolved NO. New March 2026 markets now active.
+**BTC at ~$67.8K** - Markets relatively unchanged from 30min ago. $75K steady at 47¢, $80K steady at 22¢.
 
 ### March 2026 - General "In March" Markets (ACTIVE)
 
-| Target | Current Odds | Status | Volume |
-|--------|--------------|--------|--------|
-| BTC reach $75,000 in March | 47.00¢ | Active | $1.1M |
-| BTC reach $80,000 in March | 22.00¢ | Active | $733.6K |
-| BTC reach $85,000 in March | 8.50¢ | Active | $881.3K |
-| BTC reach $90,000 in March | 3.75¢ | Active | $821.3K |
-| BTC dip to $65,000 in March | 74.40¢ | Active | $1.2M |
-| BTC dip to $60,000 in March | 37.50¢ | Active | $1.0M |
+| Target | Current Odds | Change | Status | Volume |
+|--------|--------------|--------|--------|--------|
+| BTC reach $75,000 in March | 47.00¢ | — | Active | $1.1M |
+| BTC reach $80,000 in March | 22.00¢ | — | Active | $733.8K |
+| BTC reach $85,000 in March | 8.50¢ | — | Active | $881.3K |
+| BTC reach $90,000 in March | 3.75¢ | — | Active | $821.4K |
+| BTC dip to $65,000 in March | 74.35¢ | — | Active | $1.2M |
+| BTC dip to $60,000 in March | 37.50¢ | — | Active | $1.0M |
 
 ### Year-end 2026 (Dec 31, 2026)
 
@@ -30,6 +30,6 @@ Last updated:03-07 19:21 CST
 
 ---
 
-*Markets pricing: BTC at ~$67.8K. March 2026 markets now active.*
+*Markets pricing: BTC at ~$67.8K. Odds unchanged from prior update.*
 ---
-*Note: 2026-03-07 19:21 - Polymarket 30min update. $75K: 46.50→47.00¢ (+0.50), $80K: 22.50→22.00¢ (-0.50).*
+*Note: 2026-03-07 19:51 - Polymarket 30min update. $75K: 47.00¢ (→), $80K: 22.00¢ (→).*
