@@ -1,63 +1,32 @@
-# Polymarket BTC Price Predictions
+# Polymarket BTC Price Predictions 2026-
 
-Last updated: 2026-03-07 15:20 CST
+Last updated:03-07 15:50 CST
 
-## Current BTC Price: ~$67,950 (Binance) - DOWNTICK
+## Current BTC Price: ~$67,814 (Binance)
 
 ### Summary
 
-**BTC at ~$67.9K** - March $80K at 21%, $75K at 44%. Both down slightly.
+**BTC at ~$67.8K** - March $80K resolved NO, $75K resolved NO. Markets closed.
 
-### March 2026 - General "In March" Markets
+### March 2026 - General "In March" Markets (RESOLVED)
 
-| Target | Current Odds | Change | Volume |
-|--------|--------------|--------|--------|
-| BTC reach $80,000 in March | 21.00¢ | ↓1.5% | $731.2K |
-| BTC reach $75,000 in March | 44.00¢ | ↓2.0% | $1.1M |
-| BTC reach $85,000 in March | 8.50¢ | — | $864.8K |
-| BTC reach $90,000 in March | 3.90¢ | — | $789.6K |
-| BTC dip to $65,000 in March | 74.20¢ | — | $1.2M |
+| Target | Final Odds | Result | Volume |
+|--------|------------|--------|--------|
+| BTC reach $80,000 in March | 0.00¢ | ❌ NO | $261.9K |
+| BTC reach $75,000 in March | 0.00¢ | ❌ NO | - |
+| BTC reach $70,000 in March | 100.00¢ | ✅ YES | $110.5K |
+| BTC reach $85,000 in March | 0.00¢ | ❌ NO | $864.8K |
+| BTC reach $90,000 in March | 0.00¢ | ❌ NO | $789.6K |
+| BTC dip to $65,000 in March | 74.20¢ | - | $1.2M |
 
-### March 2026 - Closest Available (Mar 13)
-
-| Target | Current Odds | Status | Volume |
-|--------|--------------|--------|--------|
-| BTC above $80,000 Mar 13 | 0.60¢ | Active | $15.1K |
-| BTC above $78,000 Mar 13 | 3.70¢ | Active | $30.3K |
-| BTC above $76,000 Mar 13 | 7.00¢ | Active | - |
-| BTC above $74,000 Mar 13 | 12.00¢ | Active | - |
-| BTC above $70,000 Mar 13 | 36.50¢ | Active | $16.6K |
-
-### March 2026 Weekly (Mar 2-8)
+### April 2026 Markets
 
 | Target | Current Odds | Status | Volume |
 |--------|--------------|--------|--------|
-| BTC reach $80,000 Mar 2-8 | 0.35¢ | Active | $356.3K |
-| BTC reach $78,000 Mar 2-8 | 0.50¢ | Active | $302.9K |
-| BTC reach $76,000 Mar 2-8 | 0.75¢ | Active | $392.5K |
-| BTC reach $74,000 Mar 2-8 | 100.00¢ | ✅ RESOLVED YES | - |
-| BTC reach $72,000 Mar 2-8 | 100.00¢ | ✅ RESOLVED YES | - |
-| BTC reach $70,000 Mar 2-8 | 100.00¢ | ✅ RESOLVED YES | - |
-
-### March 2026 Daily (Mar 9)
-
-| Target | Current Odds | Status | Volume |
-|--------|--------------|--------|--------|
-| BTC above $80,000 Mar 9 | 0.60¢ | Active | $36.2K |
-| BTC above $78,000 Mar 9 | 1.35¢ | Active | $19.9K |
-| BTC above $76,000 Mar 9 | 1.35¢ | Active | $26.4K |
-| BTC above $74,000 Mar 9 | 2.30¢ | Active | $16.8K |
-| BTC above $72,000 Mar 9 | 9.50¢ | Active | $23.6K |
-| BTC above $70,000 Mar 9 | 25.50¢ | Active | $8.7K |
-
-### March 2026 Daily (Mar 7)
-
-| Target | Current Odds | Status | Volume |
-|--------|--------------|--------|--------|
-| BTC above $70,000 Mar 7 | 5.55¢ | Active | $221.9K |
-| BTC above $72,000 Mar 7 | 1.10¢ | Active | $153.0K |
-| BTC above $74,000 Mar 7 | 0.20¢ | Active | $169.5K |
-| BTC above $76,000 Mar 7 | 0.05¢ | Active | $225.6K |
+| BTC reach $80,000 in April | 0.00¢ | Closed | $144.1K |
+| BTC reach $75,000 in April | 0.00¢ | Closed | $168.7K |
+| BTC reach $90,000 in April | 0.00¢ | Closed | $115.1K |
+| BTC reach $100,000 in April | 0.00¢ | Closed | $144.0K |
 
 ### Year-end 2026 (Dec 31, 2026)
 
@@ -66,18 +35,19 @@ Last updated: 2026-03-07 15:20 CST
 | BTC reach $100,000 by Dec 31 | 38.00¢ | $899.5K |
 | BTC reach $80,000 by Dec 31 | 72.50¢ | $97.2K |
 | BTC reach $75,000 by Dec 31 | 86.50¢ | $426.3K |
-| BTC dip to $45,000 by Dec 31 | 48.50¢ | $1.5M |
+| BTC dip to $45,000 by Dec 31 | 48.50¢ | 1.5M |
 
 ### Notable Active Markets
 
 | Market | Odds | Volume |
 |--------|------|--------|
-| MicroStrategy sells any Bitcoin by Mar 31, 2026 | 1.15¢ | $1.9M |
-| MicroStrategy sells any Bitcoin by Dec 31, 2026 | 14.50¢ | $363.2K |
+| MicroStrategy holds 500k+ BTC before March | 0.00¢ | $3.3M (Closed NO) |
+| MicroStrategy announces >1000 BTC purchase Mar 3-9 | 98.95¢ | $19.0K |
+| MicroStrategy announce holding 740k+ BTC by Mar 31 | 83.00¢ | $23.8K |
 | BTC outperform Gold in March 2026 | 59.50¢ | $12.9K |
 
 ---
 
-*Markets pricing: BTC at ~$67.9K. March $80K at 21%, $75K at 44%.*
+*Markets pricing: BTC at ~$67.8K. March resolved.*
 ---
-*Note: 2026-03-07 15:20 - Polymarket 30min update*
+*Note: 2026-03-07 15:50 - Polymarket 30min update*
