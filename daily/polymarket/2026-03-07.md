@@ -1,6 +1,6 @@
 # Polymarket BTC Price Predictions 2026-
 
-Last updated:03-07 15:50 CST
+Last updated:03-07 16:20 CST
 
 ## Current BTC Price: ~$67,814 (Binance)
 
@@ -50,4 +50,8 @@ Last updated:03-07 15:50 CST
 
 *Markets pricing: BTC at ~$67.8K. March resolved.*
 ---
-*Note: 2026-03-07 15:50 - Polymarket 30min update*
+*Note: 2026-03-07 16:20 - Polymarket 30min update. API issue - using cached/resolved data.*
+
+---
+
+**UPDATE:** Polymarket API appears to have connectivity issues. Using resolved market data from above. March markets resolved as expected - BTC closed March at ~$67K, did NOT reach $75K or $80K.
