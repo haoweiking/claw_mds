@@ -1,6 +1,6 @@
 # Polymarket BTC Price Predictions 2026-
 
-Last updated:03-07 18:21 CST
+Last updated:03-07 19:21 CST
 
 ## Current BTC Price: ~$67,814 (Binance)
 
@@ -12,12 +12,12 @@ Last updated:03-07 18:21 CST
 
 | Target | Current Odds | Status | Volume |
 |--------|--------------|--------|--------|
-| BTC reach $75,000 in March | 46.50¢ | Active | $1.1M |
-| BTC reach $80,000 in March | 22.50¢ | Active | $733.4K |
-| BTC reach $85,000 in March | 8.50¢ | Active | $881.0K |
-| BTC reach $90,000 in March | 3.80¢ | Active | $819.7K |
-| BTC dip to $65,000 in March | 75.35¢ | Active | $1.2M |
-| BTC dip to $60,000 in March | 38.50¢ | Active | $1.0M |
+| BTC reach $75,000 in March | 47.00¢ | Active | $1.1M |
+| BTC reach $80,000 in March | 22.00¢ | Active | $733.6K |
+| BTC reach $85,000 in March | 8.50¢ | Active | $881.3K |
+| BTC reach $90,000 in March | 3.75¢ | Active | $821.3K |
+| BTC dip to $65,000 in March | 74.40¢ | Active | $1.2M |
+| BTC dip to $60,000 in March | 37.50¢ | Active | $1.0M |
 
 ### Year-end 2026 (Dec 31, 2026)
 
@@ -32,4 +32,4 @@ Last updated:03-07 18:21 CST
 
 *Markets pricing: BTC at ~$67.8K. March 2026 markets now active.*
 ---
-*Note: 2026-03-07 18:21 - Polymarket 30min update. $75K: 46.00→46.50¢ (+0.50), $80K: 21.50→22.50¢ (+1.00).*
+*Note: 2026-03-07 19:21 - Polymarket 30min update. $75K: 46.50→47.00¢ (+0.50), $80K: 22.50→22.00¢ (-0.50).*
