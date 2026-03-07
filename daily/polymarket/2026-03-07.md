@@ -1,12 +1,22 @@
 # Polymarket BTC Price Predictions
 
-Last updated: 2026-03-07 08:49 CST
+Last updated: 2026-03-07 09:19 CST
 
 ## Current BTC Price: ~$68,200 (CoinGecko) - DOWNTURN
 
 ### Summary
 
-**BTC at ~$68K** - Sharp drop from ~$84K. March weekly targets unlikely. Dip risk elevated.
+**BTC at ~$68K** - Sharp drop from ~$84K. March targets essentially 0%. Dip risk elevated. Market pricing in major correction.
+
+### March 2026 - Closest Available (Mar 13)
+
+| Target | Current Odds | Status | Volume |
+|--------|--------------|--------|--------|
+| BTC above $80,000 Mar 13 | ~2% (est) | Active | ~$15K |
+| BTC above $78,000 Mar 13 | 3.75¢ | Active | $15.9K |
+| BTC above $76,000 Mar 13 | 7.00¢ | Active | $16.3K |
+| BTC above $74,000 Mar 13 | 12.00¢ | Active | $15.7K |
+| BTC above $70,000 Mar 13 | 36.50¢ | Active | $16.6K |
 
 ### March 2026 Weekly (Mar 2-8)
 
@@ -19,13 +29,14 @@ Last updated: 2026-03-07 08:49 CST
 | BTC reach $72,000 Mar 2-8 | 100.00¢ | ✅ RESOLVED YES | - |
 | BTC reach $70,000 Mar 2-8 | 100.00¢ | ✅ RESOLVED YES | - |
 
-### March 2026 Weekly Dip (Mar 2-8)
+### March 2026 Daily (Mar 7)
 
 | Target | Current Odds | Status | Volume |
 |--------|--------------|--------|--------|
-| BTC dip to $64,000 Mar 2-8 | 8.00¢ | Active | $263.7K |
-| BTC dip to $62,000 Mar 2-8 | 2.80¢ | Active | $104.9K |
-| BTC dip to $60,000 Mar 2-8 | 1.65¢ | Active | $78.1K |
+| BTC above $70,000 Mar 7 | 5.55¢ | Active | $221.9K |
+| BTC above $72,000 Mar 7 | 1.10¢ | Active | $153.0K |
+| BTC above $74,000 Mar 7 | 0.20¢ | Active | $169.5K |
+| BTC above $76,000 Mar 7 | 0.05¢ | Active | $225.6K |
 
 ### Year-end 2026 (Dec 31, 2026)
 
@@ -46,7 +57,7 @@ Last updated: 2026-03-07 08:49 CST
 
 ---
 
-*Markets pricing: BTC at ~$68K (down from $84K). Weekly $80K essentially 0% (0.35¢), $76K at 0.75¢. Market expects continued consolidation/dip.*
+*Markets pricing: BTC at ~$68K (down from $84K). March $80K <2%, $76K at 7%, $74K at 12%. Market expects continued consolidation.*
 
 ---
-*Note: 2026-03-07 08:49 - Polymarket 30min update*
+*Note: 2026-03-07 09:19 - Polymarket 30min update*
