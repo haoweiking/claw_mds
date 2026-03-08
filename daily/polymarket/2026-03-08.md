@@ -1,12 +1,12 @@
 # Polymarket BTC Price Predictions 2026-
 
-Last updated: 03-08 17:30 CST
+Last updated: 03-08 18:00 CST
 
 ## Current BTC Price: ~$67,341 (Binance)
 
 ### Summary
 
- Polymarket 3月 $75K/80K 更新(17:30): **$75K: 41.5¢** (↑1.5¢), **$80K: 20.5¢** (—)。BTC现价$67.3K,3月到期还有23天。
+ Polymarket 3月 $75K/80K 更新(18:00): **$75K: 41.5¢** (↑1.5¢), **$80K: 20.5¢** (—)。BTC现价$67.3K,3月到期还有23天。
 
 ### March 2026 - General "In March" Markets (ACTIVE)
 
