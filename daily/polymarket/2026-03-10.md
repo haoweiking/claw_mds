@@ -1,30 +1,44 @@
 # Polymarket BTC Price Predictions 2026-
 
-Last updated: 03-10 02:09 CST
+Last updated: 03-10 02:39 CST
 
 ## Current BTC Price: ~$68,XXX (from Polymarket implied)
 
 ### Summary
 
- Polymarket 3月10日 BTC 日内市场更新(02:09):
- - $68K: 55.5¢ (持平) | $70K: 19.5¢ (↓2¢) | $72K: 2.75¢ (↓0.25¢)
- - March "In Month" markets 已关闭 (今日为3月10日)
- - 短期回调预期增强,70K以上概率降至20%
+ Polymarket 3月11-12日 BTC 市场更新(02:39):
+ - $74K (Mar 11): 2.55% | $80K (Mar 11): 0.15%
+ - $74K (Mar 12): 6.0% | $80K (Mar 12): 0.8%
+ - 3月11日$70K: 30%, 3月12日$70K: 34%
+ - 市场预期短期反弹,但突破75K+仍极低
 
-### March 10 Daily Markets (Active)
+### March 11 (Resolved Tomorrow)
 
 | Target | Current Odds | Change | Volume |
 |--------|--------------|--------|--------|
-| BTC above $58,000 on Mar 10 | 99.95¢ | — | $315K |
-| BTC above $60,000 on Mar 10 | 99.85¢ | — | $113K |
-| BTC above $62,000 on Mar 10 | 99.25¢ | — | $79K |
-| BTC above $64,000 on Mar 10 | 97.60¢ | — | $133K |
-| BTC above $66,000 on Mar 10 | 88.00¢ | — | $112K |
-| BTC above $68,000 on Mar 10 | 55.50¢ | — | $114K |
-| BTC above $70,000 on Mar 10 | 19.50¢ | — | $151K |
-| BTC above $72,000 on Mar 10 | 2.75¢ | — | $108K |
-| BTC above $74,000 on Mar 10 | 0.75¢ | — | $131K |
-| BTC above $76,000 on Mar 10 | 0.35¢ | — | $92K |
+| BTC above $64,000 on Mar 11 | 94.5¢ | — | $64K |
+| BTC above $66,000 on Mar 11 | 81.0¢ | — | $49K |
+| BTC above $68,000 on Mar 11 | 58.0¢ | — | $72K |
+| BTC above $70,000 on Mar 11 | 30.0¢ | — | $32K |
+| BTC above $72,000 on Mar 11 | 11.0¢ | — | $24K |
+| BTC above $74,000 on Mar 11 | 2.55¢ | — | $46K |
+| BTC above $76,000 on Mar 11 | 0.75¢ | — | $24K |
+| BTC above $78,000 on Mar 11 | 0.4¢ | — | $44K |
+| BTC above $80,000 on Mar 11 | 0.15¢ | — | $45K |
+
+### March 12
+
+| Target | Current Odds | Change | Volume |
+|--------|--------------|--------|--------|
+| BTC above $64,000 on Mar 12 | 89.0¢ | — | $11K |
+| BTC above $66,000 on Mar 12 | 77.5¢ | — | $12K |
+| BTC above $68,000 on Mar 12 | 58.0¢ | — | $8K |
+| BTC above $70,000 on Mar 12 | 34.0¢ | — | $11K |
+| BTC above $72,000 on Mar 12 | 16.5¢ | — | $10K |
+| BTC above $74,000 on Mar 12 | 6.0¢ | — | $10K |
+| BTC above $76,000 on Mar 12 | 2.75¢ | — | $12K |
+| BTC above $78,000 on Mar 12 | 1.9¢ | — | $1K |
+| BTC above $80,000 on Mar 12 | 0.8¢ | — | $28K |
 
 ### Year-end 2026 (Dec 31, 2026)
 
@@ -36,4 +50,4 @@ Last updated: 03-10 02:09 CST
 
 ---
 
-*Note: March "In Month" markets resolved as of Mar 10. Daily markets now active.*
+*Note: March "In Month" markets resolved as of Mar 10. Daily markets now active for Mar 11-12.*
