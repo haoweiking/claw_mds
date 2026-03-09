@@ -1,35 +1,39 @@
 # Polymarket BTC Price Predictions 2026-
 
-Last updated: 03-10 01:09 CST
+Last updated: 03-10 02:09 CST
 
-## Current BTC Price: ~$69,0XX (Binance)
+## Current BTC Price: ~$68,XXX (from Polymarket implied)
 
 ### Summary
 
- Polymarket 3月 $75K/80K 更新(01:09): **$75K: 44.5¢** (↓4¢), **$80K: 22.5¢** (↓2¢)。BTC现价约$69K,3月剩余约21天。上涨乏力,回调预期增强。
+ Polymarket 3月10日 BTC 日内市场更新(02:09):
+ - $68K: 55.5¢ (持平) | $70K: 19.5¢ (↓2¢) | $72K: 2.75¢ (↓0.25¢)
+ - March "In Month" markets 已关闭 (今日为3月10日)
+ - 短期回调预期增强,70K以上概率降至20%
 
-> ⚠️ Note: Polymarket CLI returning archived 2023-24 markets; odds from last successful fetch.
+### March 10 Daily Markets (Active)
 
-### March 2026 - General "In March" Markets (ACTIVE)
-
-| Target | Current Odds | Change | Status | Volume |
-|--------|--------------|--------|--------|--------|
-| BTC reach $75,000 in March | 44.50¢ | ↓4¢ | Active | $7.8M |
-| BTC reach $80,000 in March | 22.50¢ | ↓2¢ | Active | $7.8M |
-| BTC reach $85,000 in March | 9.50¢ | ↑1¢ | Active | $951.4K |
-| BTC reach $90,000 in March | 4.25¢ | ↑0.75¢ | Active | $952.2K |
-| BTC dip to $65,000 in March | 64.10¢ | ↓9.4¢ | Active | $2.0M |
-| BTC dip to $60,000 in March | 34.00¢ | ↓5.5¢ | Active | $1.4M |
+| Target | Current Odds | Change | Volume |
+|--------|--------------|--------|--------|
+| BTC above $58,000 on Mar 10 | 99.95¢ | — | $315K |
+| BTC above $60,000 on Mar 10 | 99.85¢ | — | $113K |
+| BTC above $62,000 on Mar 10 | 99.25¢ | — | $79K |
+| BTC above $64,000 on Mar 10 | 97.60¢ | — | $133K |
+| BTC above $66,000 on Mar 10 | 88.00¢ | — | $112K |
+| BTC above $68,000 on Mar 10 | 55.50¢ | — | $114K |
+| BTC above $70,000 on Mar 10 | 19.50¢ | — | $151K |
+| BTC above $72,000 on Mar 10 | 2.75¢ | — | $108K |
+| BTC above $74,000 on Mar 10 | 0.75¢ | — | $131K |
+| BTC above $76,000 on Mar 10 | 0.35¢ | — | $92K |
 
 ### Year-end 2026 (Dec 31, 2026)
 
-| Target | Odds | Change | Volume |
-|--------|------|--------|--------|
-| BTC reach $100,000 by Dec 31 | 36.00¢ | — | $909.0K |
-| BTC reach $80,000 by Dec 31 | 69.50¢ | — | $105.7K |
-| BTC reach $75,000 by Dec 31 | 84.50¢ | — | $443.9K |
-| BTC dip to $45,000 by Dec 31 | 54.00¢ | — | $1.5M |
+| Target | Odds | Volume |
+|--------|------|--------|
+| BTC reach $100,000 by Dec 31 | 36.00¢ | $909K |
+| BTC reach $80,000 by Dec 31 | 69.50¢ | $106K |
+| BTC reach $75,000 by Dec 31 | 84.50¢ | $444K |
 
 ---
 
-*Markets pricing: | 1. BTC at ~$68.3K. 3月剩余22天。*
+*Note: March "In Month" markets resolved as of Mar 10. Daily markets now active.*
