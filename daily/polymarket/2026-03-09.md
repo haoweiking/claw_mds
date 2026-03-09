@@ -1,23 +1,23 @@
 # Polymarket BTC Price Predictions 2026-
 
-Last updated: 03-09 10:05 CST
+Last updated: 03-09 10:35 CST
 
 ## Current BTC Price: ~$67,3XX (Binance)
 
 ### Summary
 
- Polymarket 3月 $75K/80K 更新(10:05): **$75K: 32.5¢** (↓1¢), **$80K: 17¢** (↓0.5¢)。BTC现价$67.3K,3月到期还有22天。下跌预期小幅升温,市场谨慎。
+ Polymarket 3月 $75K/80K 更新(10:35): **$75K: 31.5¢** (↓1¢), **$80K: 16.5¢** (↓0.5¢)。BTC现价$67.3K,3月到期还有22天。下跌预期继续升温,市场看跌氛围加重。
 
 ### March 2026 - General "In March" Markets (ACTIVE)
 
 | Target | Current Odds | Change | Status | Volume |
 |--------|--------------|--------|--------|--------|
-| BTC reach $75,000 in March | 32.50¢ | ↓1¢ | Active | $1.5M |
-| BTC reach $80,000 in March | 17.00¢ | ↓0.5¢ | Active | $924.0K |
-| BTC reach $85,000 in March | 7.50¢ | ↑0.5¢ | Active | $924.8K |
-| BTC reach $90,000 in March | 2.85¢ | ↓0.05¢ | Active | $900.2K |
-| BTC dip to $65,000 in March | 85.30¢ | ↓1.35¢ | Active | $1.9M |
-| BTC dip to $60,000 in March | 49.50¢ | — | Active | $1.3M |
+| BTC reach $75,000 in March | 31.50¢ | ↓1¢ | Active | $1.5M |
+| BTC reach $80,000 in March | 16.50¢ | ↓0.5¢ | Active | $924.2K |
+| BTC reach $85,000 in March | 6.50¢ | ↓1¢ | Active | $924.9K |
+| BTC reach $90,000 in March | 2.80¢ | ↓0.05¢ | Active | $901.1K |
+| BTC dip to $65,000 in March | 88.60¢ | ↑3.3¢ | Active | $1.9M |
+| BTC dip to $60,000 in March | 52.00¢ | ↑2.5¢ | Active | $1.3M |
 
 ### Year-end 2026 (Dec 31, 2026)
 
