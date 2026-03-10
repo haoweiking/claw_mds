@@ -1,17 +1,17 @@
 # Polymarket BTC Price Predictions 2026
 
-Last updated: 03-11 02:11 CST
+Last updated: 03-11 03:11 CST
 
 > ⚠️ API Status: Normal
 
-## Current BTC Price: ~$70,662 (CoinGecko)
+## Current BTC Price: ~$83,500 (CoinGecko)
 
 ### Summary
 
- Polymarket 3月 BTC 市场更新(02:11):
+ Polymarket 3月 BTC 市场更新(03:11):
  - 3月底$75K: 52.5% | $80K: 26.5%
- - $75K变化: -5% | $80K变化: -3%
- - BTC $70.6K继续承压,市场看跌情绪升温
+ - $75K变化: 0% | $80K变化: 0%
+ - BTC $83.5K暴力反弹,市场情绪大幅改善,月底目标概率稳定
 
 ### March 2026 (In Month)
 
