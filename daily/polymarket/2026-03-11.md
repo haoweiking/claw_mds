@@ -1,6 +1,6 @@
 # Polymarket BTC Price Predictions 2026
 
-Last updated: 03-11 17:11 CST
+Last updated: 03-11 17:43 CST
 
 > ⚠️ API Status: Partial (CLOB prices using recent data)
 
@@ -8,21 +8,21 @@ Last updated: 03-11 17:11 CST
 
 ### Summary
 
- Polymarket 3月 BTC 市场更新(17:11):
- - 3月底$75K: 47.5% | $80K: 23%
- - $75K变化: -1¢ (vs 16:11) | $80K变化: -0.5¢
- - 继续小幅回调,市场观望
+ Polymarket 3月 BTC 市场更新(17:43):
+ - 3月底$75K: 47.5% | $80K: 23.5%
+ - $75K变化: 0¢ (vs 17:11) | $80K变化: +0.5¢
+ - 80K小幅回升,市场情绪略有改善
 
 ### March 2026 (In Month)
 
 | Target | Current Odds | Change | Volume |
 |--------|--------------|--------|--------|
-| BTC reach $75,000 in March | 47.50¢ | -1¢ | $2.0M |
-| BTC reach $80,000 in March | 23.00¢ | -0.5¢ | $1.2M |
-| BTC reach $85,000 in March | 8.00¢ | -0.5¢ | $1.1M |
-| BTC reach $90,000 in March | 2.80¢ | -0.25¢ | $1.2M |
-| BTC reach $95,000 in March | 1.30¢ | +0.25¢ | $1.5M |
-| BTC reach $100,000 in March | 0.75¢ | -0.1¢ | $1.5M |
+| BTC reach $75,000 in March | 47.50¢ | 0¢ | $2.0M |
+| BTC reach $80,000 in March | 23.50¢ | +0.5¢ | $1.2M |
+| BTC reach $85,000 in March | 8.50¢ | +0.5¢ | $1.1M |
+| BTC reach $90,000 in March | 2.55¢ | -0.25¢ | $1.2M |
+| BTC reach $95,000 in March | 1.15¢ | -0.15¢ | $1.6M |
+| BTC reach $100,000 in March | 0.75¢ | 0¢ | $1.5M |
 
 ### March 11 Daily (Close at 12:00 ET)
 
