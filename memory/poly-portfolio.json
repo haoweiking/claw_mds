@@ -75,12 +75,12 @@
   "lastPrices": {
     "btc_75k_march": 1.0,
     "us_recession": 0.345,
-    "fed_0_cuts": 0.3005,
-    "ukraine_ceasefire": 0.545,
+    "fed_0_cuts": 0.2985,
+    "ukraine_ceasefire": 0.555,
     "sweden_no": 0.67
   },
-  "lastBtc": 70875,
-  "lastCheck": "2026-03-24 08:33 UTC",
+  "lastBtc": 70017,
+  "lastCheck": "2026-03-24 15:45 UTC",
   "currentValue": 1000.16,
   "currentPnl": 0.16,
   "currentPnlPct": 0.0

@@ -12,6 +12,12 @@
 - 理由: Isak+Gyökeres伤缺，市场高估11%
 - 当前组合: $700现金 + Sweden NO (市值~$300)
 
+## 2026-03-24 更新
+- ✅ **Sweden NO 清仓**：448股 @ $0.0001，回收 $0.0448 + 退款 $299.95 = $299.99
+- 实际盈利: $0.16 (手续费/滑点损耗)
+- 当前状态: 空仓，现金 $1000.16
+- 监控市场: Sweden NO, Tampa Bay, Carolina, Italy YES
+
 ## User
 - **AZ (Ken)**: Telegram 5445067794, timezone UTC
 - Focus: Polymarket BTC 15min prediction markets
