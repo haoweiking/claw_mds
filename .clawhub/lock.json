@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "skills": {
+    "polymarket-api": {
+      "version": "1.0.0",
+      "installedAt": 1773471002184
+    },
+    "ironclaw": {
+      "version": "1.3.1",
+      "installedAt": 1773471002305
+    },
+    "deep-research-pro": {
+      "version": "1.0.2",
+      "installedAt": 1773471003392
+    },
+    "multi-search-engine": {
+      "version": "2.0.1",
+      "installedAt": 1773471005497
+    },
+    "actual-self-improvement": {
+      "version": "1.0.0",
+      "installedAt": 1773471006883
+    },
+    "agent-reach": {
+      "version": "1.1.0",
+      "installedAt": 1773471068735
+    },
+    "proactivity": {
+      "version": "1.0.1",
+      "installedAt": 1773672965099
+    },
+    "clever-compact": {
+      "version": "2.2.3",
+      "installedAt": 1773903714969
+    }
+  }
+}

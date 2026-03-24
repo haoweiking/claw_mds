@@ -1,0 +1,51 @@
+{
+  "event": "elon-musk-of-tweets-march-10-march-17",
+  "created": "2026-03-13T07:55:00Z",
+  "updated": "2026-03-18T09:53:07.923955+08:00",
+  "tweetCount": 209,
+  "positions": [
+    {
+      "range": "200-219",
+      "invested": 1.0,
+      "buyPrice": 0.013,
+      "target": 0.026,
+      "currentPrice": 0.0,
+      "pnl": -1.0,
+      "status": "WINNING - 209 tweets in [200,219], settlement pending",
+      "currentValue": 0.0,
+      "note": "Market at 0.05\u00a2 despite being winning range - negRisk settlement still pending, should resolve to $1",
+      "pnlPct": -96.2
+    },
+    {
+      "range": "240-259",
+      "invested": 5.0,
+      "buyPrice": 0.048,
+      "target": 0.096,
+      "currentPrice": 0.0,
+      "pnl": -5.0,
+      "status": "SOLD",
+      "currentValue": 0.0,
+      "pnlPct": -57.3,
+      "note": "\u5df2\u6e05\u4ed3 @ 5.55\u00a2"
+    },
+    {
+      "range": "380-399",
+      "invested": 5.0,
+      "buyPrice": 0.079,
+      "target": 0.158,
+      "currentPrice": 0.0,
+      "pnl": -5.0,
+      "status": "active",
+      "currentValue": 0.0,
+      "pnlPct": -22.8,
+      "note": "Likely resolves NO since 200-219 is winning"
+    }
+  ],
+  "totalInvested": 11.0,
+  "totalPnl": -6.0,
+  "currentValue": 0.0,
+  "reserve": 4.0,
+  "strategy": "\u77ed\u7ebf\u4e3a\u4e3b\uff0c\u7ffb\u500d\u5356\u4e00\u534a\u56de\u672c",
+  "soldValue": 5.78,
+  "totalRecovered": 6.128101265822785
+}
