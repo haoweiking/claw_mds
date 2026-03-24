@@ -1,52 +1,46 @@
-# Learnings Log
+# LEARNINGS.md - 经验教训
 
-Captured learnings, corrections, and discoveries. Review before major tasks.
+## L-001: AI 算数字会出错
+**日期:** 2026-03-14
+**类别:** 错误修正
+**优先级:** 高
+**问题:** 监控脚本让 AI 解析 outcomePrices 并计算盈亏，结果算错了（240-259 显示 -$1.73，实际 -$3.59）
+**原因:** outcomePrices 是 JSON 字符串格式，AI 解析时对字符串/数字转换有误，且盈亏计算公式出错
+**解决:** 用纯 Python 脚本计算，AI 只负责转发结果，不碰数字
+**规则:** **永远不要让 AI 做数学计算，用脚本算好 AI 只转发**
 
----
+## L-002: delivery.to 必须配置
+**日期:** 2026-03-14
+**类别:** 配置错误
+**优先级:** 高
+**问题:** Cron job 投递到 Telegram 报错 "requires target <chatId>"
+**解决:** delivery 必须包含 `to: "5445067794"`
+**规则:** **所有 Telegram 投递的 cron job 都必须设置 delivery.to**
 
-## 2026-03-05
+## L-003: 区间投注要投市场共识区间
+**日期:** 2026-03-15
+**类别:** 策略教训
+**优先级:** 高
+**问题:** Elon 推文投注选了 200-219、240-259、380-399，三个仓位全在市场预期区间（280-359）之外，亏了 77%
+**教训:** 市场概率分布的主峰就是市场共识区间，投尾部事件概率极低
+**规则:** **区间投注必须看市场概率分布，投主峰附近的区间**
 
-### Polymarket CLI Bug
-- **Problem**: `polymarket markets list --active true` doesn't show btc-updown markets
-- **Solution**: Generate slug manually using timestamp formula `btc-updown-15m-{timestamp}`
-- **Pattern**: btc-updown-15m-{unix_timestamp_aligned_to_15min}
-- **See Also**: ERRORS.md
+## L-004: Hunter-Alpha 模型在 isolated session 容易超时
+**日期:** 2026-03-16
+**类别:** 性能问题
+**优先级:** 中
+**问题:** Poly 交易监控和 EigenFlux 的 cron job 经常超时（158秒），EigenFlux 连续 27 次失败
+**原因:** isolated session + complex prompt + API 调用 = 超时风险高
+**解决:** 
+- EigenFlux 暂时禁用
+- Poly 监控脚本已做全部计算，AI 只需转发
+**规则:** **能用脚本完成的工作不要交给 AI，减少 isolated session 负担**
 
-### Session Memory
-- **Learning**: Must read memory/YYYY-MM-DD.md at session start, otherwise lose context
-- **Correction**: User reminded me 3 times before I checked memory
-- **Pattern**: Always read today's and yesterday's memory files on session start
-
-### Trading Tools Integration
-- **Best Practice**: Built unified trading_tools package with PriceData, KLineData, DeFiData, PolymarketData
-- **APIs Working**: CoinGecko, Binance, OKX, Bybit, CryptoCompare, DefiLlama
-- **APIs Need Key**: DappRadar, LunarCrush, Arkham
-
-## 2026-03-05
-
-### Trading Knowledge System
-
-**核心策略**:
-1. IPA-Claw: 预测市场犯错，偏差>7%入场
-2. V-MAC: 趋势+动量+盘口共振
-
-**技术指标**:
-- RSI: 超买>70, 超卖<30
-- VWAP: 机构成本线  
-- EMA: 趋势跟踪
-- 订单簿失衡: 订单流信号
-
-**风险管理**:
-- 单笔不超2-5%仓位
-- 亏损20%必须止损
-- 波动率低时停止交易
-
-**数据源已接入**:
-- Binance (价格、K线、资金费率)
-- DefiLlama (TVL)
-- Polymarket (预测市场)
-
-**交易执行**:
-- 私钥已配置 (EOA 签名)
-- 已实现首次盈利 +$3.01
-- 学会了限价单和市价单的区别
+## L-005: 盈亏计算要区分已实现和未实现
+**日期:** 2026-03-16
+**类别:** 用户体验
+**优先级:** 中
+**问题:** 用户看到 PnL -1.68 但没看到交易通知，困惑
+**原因:** PnL 是未实现盈亏（市价波动），不是交易产生的
+**解决:** 消息要区分"浮盈浮亏"和"已执行交易"
+**规则:** **持仓更新消息要注明"浮盈浮亏"或"已执行交易"**

@@ -1,0 +1,87 @@
+{
+  "cash": 1000.16,
+  "status": "active",
+  "startValue": 1000,
+  "markets": {
+    "sweden_no": {
+      "name": "Sweden NO",
+      "slug": "will-sweden-qualify-for-the-2026-fifa-world-cup",
+      "edge": "11%",
+      "stopLoss": 0.25,
+      "takeProfit": 0.55,
+      "partialTP": 0.45
+    },
+    "tampa_bay_yes": {
+      "name": "Tampa Bay \u51a0\u519b YES",
+      "slug": "tampa-bay-bolts-stanley-cup-2026",
+      "edge": "2.6%",
+      "stopLoss": 0.08,
+      "takeProfit": 0.25
+    },
+    "carolina_yes": {
+      "name": "Carolina \u51a0\u519b YES",
+      "slug": "carolina-hurricanes-stanley-cup-2026",
+      "edge": "3.0%",
+      "stopLoss": 0.05,
+      "takeProfit": 0.2
+    },
+    "italy_yes": {
+      "name": "Italy YES",
+      "slug": "will-italy-qualify-2026-world-cup",
+      "edge": "4.5%",
+      "stopLoss": 0.5,
+      "takeProfit": 0.8
+    }
+  },
+  "positions": [
+    {
+      "market": "sweden_no",
+      "name": "Sweden NO",
+      "slug": "will-sweden-qualify-for-the-2026-fifa-world-cup",
+      "side": "NO",
+      "shares": 0,
+      "totalCost": 300,
+      "avgPrice": 0.67,
+      "lastPrice": 0.67,
+      "entryTime": "2026-03-23T17:52:00Z",
+      "status": "closed"
+    }
+  ],
+  "trades": [
+    {
+      "time": "2026-03-23T17:52:00Z",
+      "action": "BUY",
+      "market": "sweden_no",
+      "side": "NO",
+      "shares": 448,
+      "price": 0.67,
+      "amount": 300,
+      "reason": "Isak+Gy\u00f6keres\u4f24\u7f3a\uff0c\u5e02\u573a\u9ad8\u4f3011%"
+    },
+    {
+      "time": "2026-03-24T02:15:48Z",
+      "market": "sweden_no",
+      "name": "Sweden NO",
+      "side": "SELL_NO",
+      "price": 0.67,
+      "shares": 448,
+      "value": 300.16,
+      "pnl": 0.16,
+      "pnl_pct": 0.1,
+      "reason": "\ud83c\udfaf \u6b62\u76c8: NO 67.0\u00a2 > 55\u00a2, \u5e02\u573a\u8fc7\u5ea6\u60b2\u89c2"
+    }
+  ],
+  "created": "2026-03-23T17:52:00Z",
+  "lastPrices": {
+    "btc_75k_march": 1.0,
+    "us_recession": 0.345,
+    "fed_0_cuts": 0.309,
+    "ukraine_ceasefire": 0.545,
+    "sweden_no": 0.67
+  },
+  "lastBtc": 70861,
+  "lastCheck": "2026-03-24 07:33 UTC",
+  "currentValue": 1000.16,
+  "currentPnl": 0.16,
+  "currentPnlPct": 0.0
+}

@@ -1,29 +1,37 @@
 {
   "version": 1,
   "skills": {
+    "polymarket-api": {
+      "version": "1.0.0",
+      "installedAt": 1773471002184
+    },
     "ironclaw": {
       "version": "1.3.1",
-      "installedAt": 1772585777442
+      "installedAt": 1773471002305
     },
     "deep-research-pro": {
       "version": "1.0.2",
-      "installedAt": 1772586012029
+      "installedAt": 1773471003392
     },
-    "ddg-search-cli": {
-      "version": "2026.2.15",
-      "installedAt": 1772596116714
+    "multi-search-engine": {
+      "version": "2.0.1",
+      "installedAt": 1773471005497
     },
-    "self-improving-agent": {
-      "version": "1.0.11",
-      "installedAt": 1772596721994
-    },
-    "polymarket-cli": {
+    "actual-self-improvement": {
       "version": "1.0.0",
-      "installedAt": 1772605922845
+      "installedAt": 1773471006883
     },
-    "web-search": {
-      "version": "1.0.0",
-      "installedAt": 1772722140882
+    "agent-reach": {
+      "version": "1.1.0",
+      "installedAt": 1773471068735
+    },
+    "proactivity": {
+      "version": "1.0.1",
+      "installedAt": 1773672965099
+    },
+    "clever-compact": {
+      "version": "2.2.3",
+      "installedAt": 1773903714969
     }
   }
 }
