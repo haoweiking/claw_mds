@@ -1,139 +1,15 @@
 {
-  "cash": 850.32,
-  "status": "active",
-  "startValue": 1000,
-  "markets": {
-    "sweden_no": {
-      "name": "Sweden NO",
-      "slug": "will-sweden-qualify-for-the-2026-fifa-world-cup",
-      "edge": "11%",
-      "stopLoss": 0.25,
-      "takeProfit": 0.55,
-      "partialTP": 0.45
-    },
-    "tampa_bay_yes": {
-      "name": "Tampa Bay Lightning \u51a0\u519b YES",
-      "slug": "tampa-bay-bolts-stanley-cup-2026",
-      "edge": "3.5%",
-      "stopLoss": 0.08,
-      "takeProfit": 0.25
-    },
-    "carolina_yes": {
-      "name": "Carolina Hurricanes \u51a0\u519b YES",
-      "slug": "carolina-hurricanes-stanley-cup-2026",
-      "edge": "3.0%",
-      "stopLoss": 0.05,
-      "takeProfit": 0.2
-    },
-    "italy_yes": {
-      "name": "Italy YES",
-      "slug": "will-italy-qualify-2026-world-cup",
-      "edge": "4.5%",
-      "stopLoss": 0.5,
-      "takeProfit": 0.8
-    },
-    "btc_80k_march": {
-      "name": "BTC $80k March YES",
-      "slug": "will-bitcoin-reach-80k-in-march-2026",
-      "edge": "7.5%",
-      "stopLoss": 0.04,
-      "takeProfit": 0.15
-    },
-    "btc_1m_gta": {
-      "name": "BTC $1M before GTA VI YES",
-      "slug": "bitcoin-1m-before-gta-vi",
-      "edge": "6.2%",
-      "stopLoss": 0.4,
-      "takeProfit": 0.8
-    },
-    "bitboy_yes": {
-      "name": "BitBoy \u5b9a\u7f6a YES",
-      "slug": "bitboy-convicted",
-      "edge": "10.6%",
-      "stopLoss": 0.05,
-      "takeProfit": 0.2
-    },
-    "colorado_yes": {
-      "name": "Colorado Avalanche \u51a0\u519b YES",
-      "slug": "2026-nhl-stanley-cup-champion",
-      "edge": "3.5%",
-      "stopLoss": 0.1,
-      "takeProfit": 0.3
-    }
-  },
-  "positions": [
-    {
-      "market": "sweden_no",
-      "name": "Sweden NO",
-      "slug": "will-sweden-qualify-for-the-2026-fifa-world-cup",
-      "side": "NO",
-      "shares": 0,
-      "totalCost": 300,
-      "avgPrice": 0.67,
-      "lastPrice": 0.67,
-      "entryTime": "2026-03-23T17:52:00Z",
-      "status": "closed"
-    },
-    {
-      "market": "btc_1m_gta",
-      "name": "BTC $1M before GTA VI YES",
-      "slug": "bitcoin-1m-before-gta-vi",
-      "side": "YES",
-      "shares": 308,
-      "totalCost": 149.84,
-      "avgPrice": 0.4865,
-      "lastPrice": 0.4865,
-      "entryTime": "2026-03-25T13:21:17.812236Z",
-      "status": "open"
-    }
-  ],
-  "trades": [
-    {
-      "time": "2026-03-23T17:52:00Z",
-      "action": "BUY",
-      "market": "sweden_no",
-      "side": "NO",
-      "shares": 448,
-      "price": 0.67,
-      "amount": 300,
-      "reason": "Isak+Gy\u00f6keres\u4f24\u7f3a\uff0c\u5e02\u573a\u9ad8\u4f3011%"
-    },
-    {
-      "time": "2026-03-24T02:15:48Z",
-      "market": "sweden_no",
-      "name": "Sweden NO",
-      "side": "SELL_NO",
-      "price": 0.67,
-      "shares": 448,
-      "value": 300.16,
-      "pnl": 0.16,
-      "pnl_pct": 0.1,
-      "reason": "\ud83c\udfaf \u6b62\u76c8: NO 67.0\u00a2 > 55\u00a2, \u5e02\u573a\u8fc7\u5ea6\u60b2\u89c2"
-    },
-    {
-      "time": "2026-03-25T13:21:17.812236Z",
-      "action": "BUY",
-      "market": "btc_1m_gta",
-      "name": "BTC $1M before GTA VI YES",
-      "side": "YES",
-      "shares": 308,
-      "price": 0.4865,
-      "amount": 149.84,
-      "reason": "Edge 6.4%, R:R 3.6 (\u6700\u4f73\u98ce\u9669\u56de\u62a5)"
-    }
-  ],
-  "created": "2026-03-23T17:52:00Z",
-  "lastPrices": {
-    "btc_75k_march": 1.0,
-    "us_recession": 0.345,
-    "fed_0_cuts": 0.2745,
-    "ukraine_ceasefire": 0.555,
-    "sweden_no": 0.67
-  },
-  "lastBtc": 71812,
-  "lastCheck": "2026-03-25 13:37 UTC",
-  "currentValue": 850.32,
-  "currentPnl": -149.68,
-  "currentPnlPct": -15.0,
-  "note": "\n\u673a\u4f1a\u5217\u8868 (2026-03-25):\n1. BTC $80k March - \u2705 \u5df2\u6dfb\u52a0 (\u4ef7\u683c 7.5%)\n2. BTC $1M before GTA VI - \u2705 \u5df2\u6dfb\u52a0 (\u4ef7\u683c 48.8%)\n3. BitBoy convicted - \u26a0\ufe0f \u627e\u4e0d\u5230\u8be5\u5e02\u573a\n4. NHL Stanley Cup - \u26a0\ufe0f \u5e02\u573a\u6d41\u52a8\u6027\u4e0d\u8db3/\u627e\u4e0d\u5230\n5. Russia-NATO - \u26a0\ufe0f \u627e\u4e0d\u5230\u8be5\u5e02\u573a\n\n\u539f\u56e0: CLI \u641c\u7d22\u529f\u80fd\u6709\u9650\uff0c\u90e8\u5206\u5e02\u573a\u53ef\u80fd\u5df2\u4e0b\u67b6\u6216\u6539\u540d\n"
+  "market": "btc_1m_gta",
+  "name": "BTC $1M before GTA VI YES",
+  "slug": "bitcoin-1m-before-gta-vi",
+  "side": "YES",
+  "shares": 308,
+  "totalCost": 149.84,
+  "avgPrice": 0.4865,
+  "lastPrice": 0.1025,
+  "entryTime": "2026-03-25T13:21:17.812236Z",
+  "status": "unavailable",
+  "note": "Market no longer available (404)",
+  "lastPrices": {},
+  "lastCheck": "2026-03-26 19:46 UTC"
 }
