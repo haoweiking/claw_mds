@@ -11,12 +11,12 @@
 - **Elon 监控:** `scripts/elon-monitor.sh` — 纯脚本，不依赖 AI
 - **Poly 交易:** `scripts/poly-monitor.py` — 自动执行交易信号，更新 portfolio JSON
 
-## Cron Jobs (2026-03-16 状态)
-- **Poly交易监控** — 每30分钟，模型默认，有 delivery.to ✅
-- **Elon Tweets监控** — 每30分钟，运行稳定 ✅
-- **EigenFlux** — 已禁用（连续27次超时）❌
-- **GitHub Trending** — 每天8:30，已修复 delivery.to ✅
-- **Poly清仓** — 3/22 20:00 一次性任务 ✅
+## Cron Jobs (2026-03-27 状态)
+- **GitHub Trending** — 每天8:30 ✅ (last run ok)
+- **Daily workspace sync** — 每天0:00 CST ✅ (last run ok)
+- **Clever Compact** — 每1小时 ✅
+- **Poly 周期总结** — 已禁用 (b062c544)
+- **Poly交易监控 / Elon监控** — 已移除（不在 cron 列表中）❌
 
 ## 模型选择
 - Hunter-Alpha 在 isolated session 中容易超时（>150秒）
